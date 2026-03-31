@@ -8,8 +8,8 @@ Primary Achievement: 100% Recall for Glaucoma cases (Zero False Negatives).
 
 Accuracy: 79% overall on the test set.
 
-Methodology
 
+Methodology
 Our pipeline consists of four critical stages:
 
 Input: Processing high-resolution retinal images from the HYGD dataset.
